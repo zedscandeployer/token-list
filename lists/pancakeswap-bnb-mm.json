@@ -76,6 +76,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x170C84E3b1D282f9628229836086716141995200.png"
+    },
+    {
+      "name": "Bitcoin Bridged ZED20",
+      "symbol": "BTC.z",
+      "address": "0xB338B6306699a53aA1804FD21A3A44e48b57018E",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://i.postimg.cc/gXwn1PfJ/btcz-logo.png"
+    }
     }
   ]
 }
